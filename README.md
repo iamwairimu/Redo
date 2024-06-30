@@ -14,3 +14,6 @@ Codium AI
 
 Author
 https://github.com/iamwairimu
+
+Deployed
+https://iamwairimu.github.io/Redo/
